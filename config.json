@@ -1,5 +1,4 @@
 {
-  "maintenance": true,
-  "message": "Back at 3:00 PM. Pushing a fix for the SAC-AM lookup — re-open the side panel after that and you're good.",
-  "eta": "3:00 PM"
+  "maintenance": false,
+  "message": ""
 }
