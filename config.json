@@ -1,5 +1,4 @@
 {
-  "maintenance": true,
-  "message": "Pushing fixes. Back by 8:00 AM — re-open the side panel after that.",
-  "eta": "8:00 AM"
+  "maintenance": false,
+  "message": ""
 }
