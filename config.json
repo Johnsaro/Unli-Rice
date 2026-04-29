@@ -1,4 +1,5 @@
 {
-  "maintenance": false,
-  "message": ""
+  "maintenance": true,
+  "message": "Paused for now. Panel will unlock on its own.",
+  "eta": ""
 }
