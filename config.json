@@ -1,5 +1,18 @@
 {
   "maintenance": true,
-  "message": "Adding new features, patching bugs, and enhancing security.",
-  "eta": ""
+  "title": "paste2sawa is paused",
+  "reason": "Quick patch and a few small upgrades. Re-open the side panel once it unlocks — auto-checks every 30 seconds.",
+  "eta": "",
+  "version": "v0.7.5",
+  "added": [
+    {
+      "title": "Keyboard shortcuts.",
+      "sub": "Alt+Shift+A opens the side panel, Alt+Shift+X closes it. Remappable at chrome://extensions/shortcuts."
+    },
+    {
+      "title": "Clearer login banner.",
+      "sub": "Now reminds you the VPN has to actually be working, not just connected."
+    }
+  ],
+  "removed": []
 }
