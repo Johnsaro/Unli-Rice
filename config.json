@@ -1,7 +1,7 @@
 {
   "maintenance": true,
   "title": "Fixing a lookup bug",
-  "reason": "Some JOs are returning errors like \"Couldn't resolve serial → account\" even when CSP has the data. Investigating and pushing a fix. No ETA but I'll do my best to reopen today.",
+  "reason": "Some JOs are returning errors like \"Couldn't resolve serial → account\" even when CSP has the data. Investigating and pushing a fix. No ETA. After the update you'll need to download the new version — just wait for the message in Viber for the zip file.",
   "eta": "No ETA",
   "version": "v1.1.0",
   "added": [],
