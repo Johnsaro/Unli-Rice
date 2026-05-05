@@ -1,17 +1,17 @@
 {
-  "maintenance": false,
-  "title": "",
-  "reason": "",
-  "eta": "",
-  "version": "v0.8.0",
+  "maintenance": true,
+  "title": "Updating paste2sawa",
+  "reason": "Working on smarter lookup and an improved Follow-up dashboard. Panel will unlock automatically when it's ready.",
+  "eta": "Later today",
+  "version": "v1.1.0",
   "added": [
     {
-      "title": "Keyboard shortcuts.",
-      "sub": "Alt+Shift+A opens the side panel, Alt+Shift+X closes it. Remappable at chrome://extensions/shortcuts."
+      "title": "Smarter lookup.",
+      "sub": "Better detection and fewer misses across portals."
     },
     {
-      "title": "Clearer login banner.",
-      "sub": "Now reminds you the VPN has to actually be working, not just connected."
+      "title": "Smarter Follow-up tracking.",
+      "sub": "More accurate queue — cleaner and easier to manage."
     }
   ],
   "removed": []
