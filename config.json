@@ -1,18 +1,9 @@
 {
-  "maintenance": false,
-  "title": "",
-  "reason": "",
-  "eta": "",
+  "maintenance": true,
+  "title": "Fixing a lookup bug",
+  "reason": "Some JOs are returning errors like \"Couldn't resolve serial → account\" even when CSP has the data. Investigating and pushing a fix. No ETA but we'll do our best to reopen today.",
+  "eta": "No ETA",
   "version": "v1.1.0",
-  "added": [
-    {
-      "title": "Smarter lookup.",
-      "sub": "Better detection and fewer misses across portals."
-    },
-    {
-      "title": "Smarter Follow-up tracking.",
-      "sub": "More accurate queue — cleaner and easier to manage."
-    }
-  ],
+  "added": [],
   "removed": []
 }
