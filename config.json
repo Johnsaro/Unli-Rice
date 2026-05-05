@@ -1,8 +1,8 @@
 {
-  "maintenance": true,
-  "title": "Updating paste2sawa",
-  "reason": "Working on smarter lookup and an improved Follow-up dashboard. Panel will unlock automatically when it's ready.",
-  "eta": "Later today",
+  "maintenance": false,
+  "title": "",
+  "reason": "",
+  "eta": "",
   "version": "v1.1.0",
   "added": [
     {
