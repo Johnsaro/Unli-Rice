@@ -1,4 +1,9 @@
 {
-  "payload": { "maintenance": false },
-  "signature": "acfbdd21c8d90656d530853b34726518ca735c1a332c50cbe220317d89795eb9"
+  "signature": "56b7a88a08274bfb61218fb9aa91f47fd616d90864635ec1bb1d15ebb0eeb8e1",
+  "payload": {
+    "maintenance": true,
+    "title": "paste2sawa is paused",
+    "reason": "Down for the day. Back tomorrow.",
+    "eta": "Tomorrow"
+  }
 }
