@@ -1,4 +1,4 @@
 {
-  "signature": "ae916407f40c3aa99bcb8c21781a0146a2274b8664eee1514627045e81cc4f38",
-  "payload": {"maintenance":true,"title":"paste2sawa is paused","reason":"Pushing v2.1.0. OPR is back (and SLR is in this time), smart mode flags NCA cases, and check serial shows last cause down.","eta":"No ETA","version":"v2.1.0","added":[{"title":"OPR is back, SLR included","sub":"Runs through CSP now. Works for both SLI and SLR with no ACS or exception gates."},{"title":"Smart mode for NCA","sub":"Panel tells you when an SLR needs NCA reporting."},{"title":"Last cause down on check serial","sub":"Latest outage reason shows up with the rest of the data."}],"removed":[]}
+  "signature": "5b51484cbf68ce3c84611f91f988b48062d21b6b9b397aba1635c841ca9288fd",
+  "payload": {"maintenance":false,"message":""}
 }
