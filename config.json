@@ -1,4 +1,9 @@
 {
-  "signature": "5b51484cbf68ce3c84611f91f988b48062d21b6b9b397aba1635c841ca9288fd",
-  "payload": {"maintenance":false,"message":""}
+  "maintenance": true,
+  "title": "Update required",
+  "message": "Your extension folder is outdated. Replace it with the latest folder.",
+  "eta": "Latest folder required",
+  "version": "v2.3.0",
+  "signature": "ebfa5e5bfcb82ab389cdd0dba19a402bd0e54fc14868cf1191f48c4ebbd0dfd2",
+  "payload": {"maintenance":false,"message":"","minSupportedVersion":"2.3.0","latestVersion":"2.3.0"}
 }
