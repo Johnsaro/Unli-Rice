@@ -1,9 +1,14 @@
 {
   "maintenance": true,
-  "title": "Update required",
-  "message": "Your extension folder is outdated. Replace it with the latest folder.",
-  "eta": "Latest folder required",
+  "title": "New version coming",
+  "message": "New version and more features will be added next.",
+  "eta": "",
   "version": "v2.3.0",
-  "signature": "ebfa5e5bfcb82ab389cdd0dba19a402bd0e54fc14868cf1191f48c4ebbd0dfd2",
-  "payload": {"maintenance":false,"message":"","minSupportedVersion":"2.3.0","latestVersion":"2.3.0"}
+  "signature": "ab20ee16037ca7e03b474fb2b0ff0c6cd4599194442f4b47345179dfc7e5c816",
+  "payload": {
+    "maintenance": true,
+    "message": "New version and more features will be added next.",
+    "minSupportedVersion": "",
+    "latestVersion": "2.3.0"
+  }
 }
