@@ -1,12 +1,12 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "title": "New version coming",
   "message": "New version and more features will be added next.",
   "eta": "",
   "version": "v2.3.0",
-  "signature": "ab20ee16037ca7e03b474fb2b0ff0c6cd4599194442f4b47345179dfc7e5c816",
+  "signature": "2f639553a088ab4812c006e4c5ee19c8601198751fbc457ed21a1df8900f2fca",
   "payload": {
-    "maintenance": true,
+    "maintenance": false,
     "message": "New version and more features will be added next.",
     "minSupportedVersion": "",
     "latestVersion": "2.3.0"
