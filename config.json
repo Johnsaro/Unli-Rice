@@ -1,14 +1,16 @@
 {
-  "maintenance": false,
-  "title": "New version coming",
-  "message": "New version and more features will be added next.",
-  "eta": "",
-  "version": "v2.3.0",
-  "signature": "2f639553a088ab4812c006e4c5ee19c8601198751fbc457ed21a1df8900f2fca",
+  "maintenance": true,
+  "title": "This tool is retired",
+  "message": "This tool is retired and no longer supported. Please remove it from Chrome: open chrome://extensions, find this extension, and click Remove.",
+  "eta": "Permanent",
+  "version": "",
+  "signature": "f41b2a8b03736af35b30b0a0cf3969fda41d8921fbd7ac8889e7475032f95494",
   "payload": {
-    "maintenance": false,
-    "message": "New version and more features will be added next.",
+    "maintenance": true,
+    "title": "This tool is retired",
+    "message": "This tool is retired and no longer supported. Please remove it from Chrome: open chrome://extensions, find this extension, and click Remove.",
+    "eta": "Permanent",
     "minSupportedVersion": "",
-    "latestVersion": "2.3.0"
+    "latestVersion": ""
   }
 }
