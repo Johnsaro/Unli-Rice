@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "0.4.3",
-    "notes":  "One-time network bridge activation for new installs, plus setup and uninstaller improvements.",
-    "zip":  "https://github.com/Johnsaro/Unli-Rice/releases/download/v0.4.3/Subscriber-Lookup.zip"
+    "version":  "0.4.4",
+    "notes":  "Setup flow stability and activation improvements.",
+    "zip":  "https://github.com/Johnsaro/Unli-Rice/releases/download/v0.4.4/Subscriber-Lookup.zip"
 }
