@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "0.4.4",
-    "notes":  "Setup flow stability and activation improvements.",
-    "zip":  "https://github.com/Johnsaro/Unli-Rice/releases/download/v0.4.4/Subscriber-Lookup.zip"
+    "version":  "0.4.5",
+    "notes":  " Troubleshooting actions now work instantly with no setup, with cleaner removal of unused features for a simpler console",
+    "zip":  "https://github.com/Johnsaro/Unli-Rice/releases/download/v0.4.5/Subscriber-Lookup.zip"
 }
