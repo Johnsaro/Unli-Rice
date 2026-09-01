@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "0.4.6",
-    "notes":  " Faster lookups and more reliable portal session detection",
-    "zip":  "https://github.com/Johnsaro/Unli-Rice/releases/download/v0.4.6/Subscriber-Lookup.zip"
+    "version":  "0.4.7",
+    "notes":  "Improved the lookup dashboard: fixed a data issue in outage checks, added a new ONT status view, and made optical power readings more reliable with a fallback.",
+    "zip":  "https://github.com/Johnsaro/Unli-Rice/releases/download/v0.4.7/Subscriber-Lookup.zip"
 }
