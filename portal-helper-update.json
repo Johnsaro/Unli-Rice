@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "0.4.7",
-    "notes":  "Improved the lookup dashboard: fixed a data issue in outage checks, added a new ONT status view, and made optical power readings more reliable with a fallback.",
-    "zip":  "https://github.com/Johnsaro/Unli-Rice/releases/download/v0.4.7/Subscriber-Lookup.zip"
+    "version":  "1.0.0",
+    "notes":  "",
+    "zip":  "https://github.com/Johnsaro/Unli-Rice/releases/download/v1.0.0/Subscriber-Lookup.zip"
 }
